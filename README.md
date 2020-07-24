@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bhot
+$ git clone https://github.com/JohnsonAkin/bhot
 <br/>
 $ pip2 install requests
 <br/>
@@ -36,9 +36,9 @@ $ python2 bhot.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : (darmin008) 
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : (darmin008+)
 <br/>
 ....
 <br/>
