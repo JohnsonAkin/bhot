@@ -45,30 +45,11 @@ $ python2 bhot.py
 
 * Note:- Don't try to edit or modify this tool.
 
-## 馃敆 ***Check this***
+ ***Check this***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
-
-## 馃懃 ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/JohnsonAkin 
 
 ### 馃摙 Warning
 
